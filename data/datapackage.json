@@ -1,0 +1,132 @@
+{
+  "bytes": 82094,
+  "contributors": [
+    {
+      "role": "maintainer",
+      "title": "Thorben Westerhuys"
+    }
+  ],
+  "count_of_rows": 602,
+  "hash": "b1dc50255a4a79e22d3e9201834ac1db",
+  "name": "ch-vaccinations",
+  "profile": "data-package",
+  "resources": [
+    {
+      "bytes": 41047,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "7517b13f793845f56e8822f3b7fe5269",
+      "name": "vaccination_data_total",
+      "path": "vaccination_data_total.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "canton",
+            "type": "string"
+          },
+          {
+            "format": "%Y-%m-%d",
+            "name": "date",
+            "type": "date"
+          },
+          {
+            "format": "default",
+            "name": "first_doses",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "second_doses",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "total_vaccinations",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "source",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "bytes": 41047,
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hash": "05211f44fad68ea5eceead333df9d000",
+      "name": "vaccinations_latest",
+      "path": "vaccinations_latest.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "canton",
+            "type": "string"
+          },
+          {
+            "format": "%Y-%m-%d",
+            "name": "date",
+            "type": "date"
+          },
+          {
+            "format": "default",
+            "name": "first_doses",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "second_doses",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "total_vaccinations",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "source",
+            "type": "string"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "Markus Meier/Github",
+      "url": "https://github.com/maekke/vaccination_data"
+    }
+  ],
+  "title": "Total vaccinations for Switzerland"
+}
