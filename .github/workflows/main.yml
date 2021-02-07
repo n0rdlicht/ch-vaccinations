@@ -27,4 +27,20 @@ jobs:
         uses: actions-x/commit@v2
         with:
           name: GitHub Action Updater
-          commit-message: Automatic update of vaccination data
+          message: Automatic update of vaccination data
+  push_to_datahub:
+    runs-on: ubuntu-latest
+    name: Push Data Package
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - run: npm i -g data-cli
+      - shell: bash
+        env:
+          DATAHUB_SECRET: ${{ secrets.DATAHUB_SECRET }}
+        run: |
+          mkdir -p ~/.config/datahub
+          echo "$DATAHUB_SECRET" > "~/.config/datahub/config.json"
+          data push
