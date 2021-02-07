@@ -29,6 +29,8 @@ jobs:
           name: GitHub Action Updater
           message: Automatic update of vaccination data
   push_to_datahub:
+    needs: update
+    if: ${{ github.ref == 'refs/heads/main' && contains('Your branch is up to date with 'origin/main'.', jobs.update.steps[5].outputs) }} 
     runs-on: ubuntu-latest
     name: Push Data Package
     steps:
