@@ -1,18 +1,19 @@
 {
-  "bytes": 83143,
+  "bytes": 83660,
   "contributors": [
     {
       "role": "maintainer",
       "title": "Thorben Westerhuys"
     }
   ],
-  "count_of_rows": 596,
-  "hash": "38e8c199ff7b653e7f0f7840e6040679",
+  "count_of_rows": 598,
+  "description": "A simple Data Package Wrapper for the cantonal vaccination data as published by the cantons and scraped by Markus Meier.",
+  "hash": "52b1862fceab85523449282cf2128d8a",
   "name": "ch-vaccinations",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 42878,
+      "bytes": 43138,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -24,7 +25,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "fa6438b8b210b31309d7ca004b53f18f",
+      "hash": "d068994e59fc4295d28273a8dda37f2f",
       "name": "vaccination_data_total",
       "path": "vaccination_data_total.csv",
       "profile": "tabular-data-resource",
@@ -82,7 +83,7 @@
       }
     },
     {
-      "bytes": 40265,
+      "bytes": 40522,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -94,7 +95,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "082d4ab6be81ea1a9b20625807494a39",
+      "hash": "9867be85ac8609a5ab87877d3c0b48e9",
       "name": "vaccinations_latest",
       "path": "vaccinations_latest.csv",
       "profile": "tabular-data-resource",
@@ -139,8 +140,8 @@
   ],
   "sources": [
     {
-      "title": "Markus Meier/Github",
-      "url": "https://github.com/maekke/vaccination_data"
+      "path": "https://github.com/maekke/vaccination_data",
+      "title": "Markus Meier Github Scraper/Kantone"
     }
   ],
   "title": "Total vaccinations for Switzerland"
