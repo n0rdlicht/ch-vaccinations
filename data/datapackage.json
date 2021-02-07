@@ -7,7 +7,7 @@
     }
   ],
   "count_of_rows": 596,
-  "hash": "dc250759b3a2d25325de20f1dd45293a",
+  "hash": "091d798da8319fcd45df2e17bd7854f3",
   "name": "ch-vaccinations",
   "profile": "data-package",
   "resources": [
@@ -24,7 +24,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "ff8e9c221b099a8131dd141bb3542c94",
+      "hash": "b6070b5fd5e285de248134995ec2a1fb",
       "name": "vaccination_data_total",
       "path": "vaccination_data_total.csv",
       "profile": "tabular-data-resource",
@@ -94,7 +94,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "4f71c4da1c40d0030c2d83f2d22b83ad",
+      "hash": "49693fb143354ceacb0284bfbd550241",
       "name": "vaccinations_latest",
       "path": "vaccinations_latest.csv",
       "profile": "tabular-data-resource",
