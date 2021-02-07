@@ -11,6 +11,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     name: Update Data Package
+    outputs:
+      old_sha: ${{ steps.old_sha.outputs.OLD_SHA }}
+      new_sha: ${{ steps.new_sha.outputs.NEW_SCHA }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup python
@@ -21,16 +24,28 @@ jobs:
       - name: Install Python dependencies
         uses: py-actions/py-dependency-install@v2
         with:
-          path: "requirements.txt"  
+          path: "requirements.txt"
+      - name: get old sha
+        id: old_sha
+        run: |
+          sha_old=$(git rev-parse HEAD)
+          echo $sha_old
+          echo "::set-output name=OLD_SHA::$sha_old"  
       - run: make
       - name: push
         uses: actions-x/commit@v2
         with:
           name: GitHub Action Updater
           message: Automatic update of vaccination data
+      - name: get new sha
+        id: new_sha
+        run: |
+          sha_new=$(git rev-parse HEAD)
+          echo $sha_new
+          echo "::set-output name=NEW_SCHA::$sha_new"
   push_to_datahub:
     needs: update
-    # if: ${{ github.ref == 'refs/heads/main' && contains('Your branch is up to date', jobs.update.steps[5].outputs) }} 
+    if: ${{ github.ref == 'refs/heads/main' && needs.update.outputs.old_sha != needs.update.outputs.new_sha }} 
     runs-on: ubuntu-latest
     name: Push Data Package
     steps:
