@@ -1,4 +1,4 @@
-from dataflows import Flow, load, dump_to_path, dump_to_zip, printer, add_metadata, duplicate, deduplicate, set_primary_key, select_fields, sort_rows, filter_rows
+from dataflows import Flow, load, dump_to_path, dump_to_zip, printer, add_metadata, duplicate, deduplicate, set_primary_key, select_fields, sort_rows, filter_rows, unpivot
 
 
 def select_vaccination_rows(row):
@@ -13,9 +13,11 @@ def vaccination_data_total_csv():
         # Save the results
         add_metadata(
             name='ch-vaccinations', 
-            title='Total vaccinations for Switzerland', 
-            sources=[{"title":"Markus Meier/Github","url":"https://github.com/maekke/vaccination_data"}],
-            contributors=[{"role":"maintainer","title":"Thorben Westerhuys"}]
+            title='Total vaccinations for Switzerland',
+            description='A simple Data Package Wrapper for the cantonal vaccination data as published by the cantons and scraped by Markus Meier.',
+            sources=[{"title":"Markus Meier Github Scraper/Kantone","path":"https://github.com/maekke/vaccination_data"}],
+            contributors=[{"role":"maintainer","title":"Thorben Westerhuys"}],
+            # views=[{"name":"total-vaccinations","title":"Total Vaccinations Switzerland","resources":["vaccinations_latest"],"specType":"simple","spec":{"type":"line","group":"date","series":["VS","BE","GE","GL","GR","SO","ZG","ZH","AG","AR","AI","LU","LU","BL","BS","UR","SZ","OW","NW","FR","SH","TG","TI","NE","SG","JU","VD"]}}]
         ),
         duplicate(
             source='vaccination_data_total',
