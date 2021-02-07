@@ -1,18 +1,18 @@
 {
-  "bytes": 82094,
+  "bytes": 81781,
   "contributors": [
     {
       "role": "maintainer",
       "title": "Thorben Westerhuys"
     }
   ],
-  "count_of_rows": 602,
-  "hash": "b1dc50255a4a79e22d3e9201834ac1db",
+  "count_of_rows": 588,
+  "hash": "7b7058a8ce29cb088cae99ff5af6153f",
   "name": "ch-vaccinations",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 41047,
+      "bytes": 42191,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -24,7 +24,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "7517b13f793845f56e8822f3b7fe5269",
+      "hash": "69fc7275a2c3c1e747d448e1516f6499",
       "name": "vaccination_data_total",
       "path": "vaccination_data_total.csv",
       "profile": "tabular-data-resource",
@@ -39,6 +39,21 @@
             "format": "%Y-%m-%d",
             "name": "date",
             "type": "date"
+          },
+          {
+            "format": "default",
+            "name": "week",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "year",
+            "type": "integer"
+          },
+          {
+            "format": "default",
+            "name": "doses_delivered",
+            "type": "integer"
           },
           {
             "format": "default",
@@ -67,7 +82,7 @@
       }
     },
     {
-      "bytes": 41047,
+      "bytes": 39590,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -79,7 +94,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "05211f44fad68ea5eceead333df9d000",
+      "hash": "35abb482d4071f4014d9a573c555b40f",
       "name": "vaccinations_latest",
       "path": "vaccinations_latest.csv",
       "profile": "tabular-data-resource",

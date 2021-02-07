@@ -22,7 +22,8 @@ def vaccination_data_total_csv():
             target_name='vaccinations_latest',
         ),
         select_fields(
-            fields=["canton","date","first_doses","second_doses","total_vaccinations","source"]
+            fields=["canton","date","first_doses","second_doses","total_vaccinations","source"],
+            resources='vaccinations_latest',
         ),
         filter_rows(
             condition=select_vaccination_rows,
