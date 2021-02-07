@@ -41,9 +41,14 @@ jobs:
       - run: npm i -g data-cli
       - shell: bash
         env:
-          DATAHUB_SECRET: ${{ secrets.DATAHUB_SECRET }}
+          DATAHUB_TOKEN: ${{ secrets.DATAHUB_TOKEN }}
+          DATAHUB_PROVIDERID: $${{ secrets.DATAHUB_PROVIDERID }}
+          DATAHUB_ID: ${{ secrets.DATAHUB_ID }}
+          DATAHUB_EMAIL: thorben.westerhuys@gmail.com
+          DATAHUB_NAME: Thorben Westerhuys
+          DATAHUB_USERNAME: n0rdlicht
         run: |
           mkdir -p .config/datahub
-          echo "$DATAHUB_SECRET" > ".config/datahub/config.json"
+          printf '{"token": "%s","profile": {"email": "%s","id": "%s","name": "%s","provider_id": "%s","username": "%s"}}' "$DATAHUB_TOKEN" "$DATAHUB_EMAIL" "$DATAHUB_ID" "$DATAHUB_NAME" "$DATAHUB_PROVIDERID" "$DATAHUB_USERNAME" > .config/datahub/config.json
           export DATAHUB_JSON=.config/datahub/config.json
           make push
