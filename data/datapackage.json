@@ -1,19 +1,19 @@
 {
-  "bytes": 107472,
+  "bytes": 107753,
   "contributors": [
     {
       "role": "maintainer",
       "title": "Thorben Westerhuys"
     }
   ],
-  "count_of_rows": 822,
+  "count_of_rows": 824,
   "description": "A simple Data Package Wrapper for the cantonal vaccination data as published by the cantons and scraped by Markus Meier.",
-  "hash": "347cdf45cd23522ab4fc086ce44098bf",
+  "hash": "3aca0447fa1e8d4d64d73d0891cee4e2",
   "name": "ch-vaccinations",
   "profile": "data-package",
   "resources": [
     {
-      "bytes": 55393,
+      "bytes": 55535,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -25,7 +25,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "de76bcb88a070b4a53a5720ba0d313d1",
+      "hash": "cdd284c27c1264abfa78bacd17554faa",
       "name": "vaccination_data_total",
       "path": "vaccination_data_total.csv",
       "profile": "tabular-data-resource",
@@ -83,7 +83,7 @@
       }
     },
     {
-      "bytes": 52079,
+      "bytes": 52218,
       "dialect": {
         "caseSensitiveHeader": false,
         "delimiter": ",",
@@ -95,7 +95,7 @@
       },
       "encoding": "utf-8",
       "format": "csv",
-      "hash": "6fac95db709f28cff5d1526d7e626499",
+      "hash": "1fc2ad6be28afa873e49ab13c63b6a83",
       "name": "vaccinations_latest",
       "path": "vaccinations_latest.csv",
       "profile": "tabular-data-resource",
