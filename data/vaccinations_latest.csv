@@ -1,5 +1,5 @@
 canton,date,first_doses,second_doses,total_vaccinations,source
-VD,2021-02-14,46135,8839,54974,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-02-14,46142,8859,55001,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZG,2021-02-13,7579,1758,9337,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VD,2021-02-13,46092,8718,54810,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 NW,2021-02-13,,,4350,https://www.nw.ch/gesundheitsamtdienste/6044
