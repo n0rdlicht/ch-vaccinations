@@ -1,15 +1,16 @@
 canton,date,first_doses,second_doses,total_vaccinations,source
-VD,2021-02-14,46200,8987,55187,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-02-15,46204,8998,55202,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-02-14,46200,8988,55188,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 NW,2021-02-14,,,4350,https://www.nw.ch/gesundheitsamtdienste/6044
 BL,2021-02-14,,,19721,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 ZG,2021-02-13,7579,1758,9337,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
-VD,2021-02-13,46092,8718,54810,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-02-13,46092,8719,54811,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 NW,2021-02-13,,,4350,https://www.nw.ch/gesundheitsamtdienste/6044
 BS,2021-02-13,11485,6912,18397,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BL,2021-02-13,,,19721,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 ZG,2021-02-12,7539,1506,9045,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-02-12,,,20505,https://www.vs.ch/documents/6756452/7008787/2021 02 12 - Sit Epid - État Stand
-VD,2021-02-12,45972,8467,54439,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-02-12,45972,8468,54440,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 UR,2021-02-12,2330,1030,3360,https://www.ur.ch/_rte/information/75743
 SZ,2021-02-12,,,9616,https://www.sz.ch/public/upload/assets/51633/MM_Impfung_Pflegeheime_erfolgreich.pdf
 SO,2021-02-12,,,14970,https://corona.so.ch/index.php?id=27979
@@ -317,6 +318,7 @@ VD,2021-01-15,5349,,5349,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vacc
 LU,2021-01-15,6549,0,6549,https://www.lustat.ch/daten?id=28177
 BS,2021-01-15,5969,0,5969,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BL,2021-01-15,,,4849,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BE,2021-01-15,,4566,50921,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 BE,2021-01-15,,0,3218,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 ZG,2021-01-14,1184,159,1343,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VD,2021-01-14,4122,,4122,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
