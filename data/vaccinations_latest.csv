@@ -1,11 +1,16 @@
 canton,date,first_doses,second_doses,total_vaccinations,source
-VD,2021-02-17,48726,11787,60513,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-02-17,48832,11922,60754,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+SH,2021-02-17,6226,1883,8109,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
+BE,2021-02-17,,8073,59179,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 ZH,2021-02-16,78341,10041,88382,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/gesundheit/corona/hauptseite/gd_zh_corona_lagebulletin.pdf
+ZG,2021-02-16,7619,2694,10313,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-02-16,,,23870,https://www.vs.ch/documents/6756452/7008787/2021 02 16 - Sit Epid - État Stand
 VD,2021-02-16,48725,11784,60509,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 SH,2021-02-16,6216,1636,7852,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 NW,2021-02-16,,,4926,https://www.nw.ch/gesundheitsamtdienste/6044
 LU,2021-02-16,18120,7110,25230,https://www.lustat.ch/daten?id=28177
+GR,2021-02-16,9894,4329,14223,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
+GE,2021-02-16,25933,8285,34218,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 BE,2021-02-16,,6124,54763,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-02-16,,,3788,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 ZH,2021-02-15,76775,9194,85969,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/gesundheit/corona/hauptseite/gd_zh_corona_lagebulletin.pdf
