@@ -1,7 +1,8 @@
 canton,date,first_doses,second_doses,total_vaccinations,source
-VD,2021-02-19,51874,15189,67063,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-02-19,52016,15290,67306,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 SO,2021-02-19,,,15980,https://corona.so.ch/index.php?id=27979
 SH,2021-02-19,6290,3002,9292,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
+NW,2021-02-19,,,5138,https://www.nw.ch/gesundheitsamtdienste/6044
 BE,2021-02-19,,11859,67781,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 ZG,2021-02-18,7753,4083,11836,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-02-18,,,26145,https://www.vs.ch/documents/6756452/7008787/2021 02 18 - Sit Epid - État Stand
