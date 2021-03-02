@@ -1,8 +1,9 @@
 canton,date,first_doses,second_doses,total_vaccinations,source
-VD,2021-03-02,56956,26567,83523,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-03-02,57015,26570,83585,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 SO,2021-03-02,18505,,18505,https://corona.so.ch/index.php?id=27979
 SH,2021-03-02,7099,3711,10810,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 BE,2021-03-02,,27062,90981,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
+AR,2021-03-02,,,6139,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 ZH,2021-03-01,86538,34886,121424,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/gesundheit/corona/hauptseite/gd_zh_corona_lagebulletin.pdf
 ZG,2021-03-01,8793,6957,15750,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-03-01,,,33875,https://www.vs.ch/documents/6756452/7008787/2021 03 01 - Sit Epid - État Stand
@@ -26,7 +27,7 @@ BS,2021-02-28,12733,9363,22096,https://data.bs.ch/explore/dataset/100111/downloa
 BL,2021-02-28,,,29417,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 AG,2021-02-28,44176,17477,61653,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZG,2021-02-27,8574,6945,15519,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
-VD,2021-02-27,56956,24913,81869,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-02-27,57015,24913,81928,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-02-27,18659,6863,25522,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 LU,2021-02-27,20603,15725,36328,https://www.lustat.ch/daten?id=28177
 BS,2021-02-27,12733,9363,22096,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
