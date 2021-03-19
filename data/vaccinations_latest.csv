@@ -1,13 +1,14 @@
 canton,date,first_doses,second_doses,total_vaccinations,source
 ZH,2021-03-19,115110,70064,185174,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/gesundheit/corona/hauptseite/gd_zh_corona_lagebulletin.pdf
-VD,2021-03-19,79816,39777,119593,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-03-19,79833,39778,119611,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 SH,2021-03-19,7870,6009,13879,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
+BS,2021-03-19,16276,11398,27674,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BE,2021-03-19,,54877,145850,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-03-19,,,8021,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 ZH,2021-03-18,112787,65995,178782,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/gesundheit/corona/hauptseite/gd_zh_corona_lagebulletin.pdf
 ZG,2021-03-18,11610,7792,19402,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-03-18,,,48945,https://www.vs.ch/documents/6756452/7008787/2021 03 18 - Sit Epid - État Stand
-VD,2021-03-18,77857,37940,115797,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-03-18,77857,37941,115798,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 UR,2021-03-18,,,6449,https://www.ur.ch/_rte/information/76867
 TG,2021-03-18,22183,14382,36565,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-03-18,24793,16256,41049,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -24,7 +25,7 @@ AG,2021-03-18,63666,32204,95870,https://www.ag.ch/de/themen_1/coronavirus_2/lage
 ZH,2021-03-17,110030,61990,172020,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/gesundheit/corona/hauptseite/gd_zh_corona_lagebulletin.pdf
 ZG,2021-03-17,11369,7725,19094,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-03-17,,,48335,https://www.vs.ch/documents/6756452/7008787/2021 03 17 - Sit Epid - État Stand
-VD,2021-03-17,75697,36126,111823,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-03-17,75697,36127,111824,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TI,2021-03-17,30855,22336,53191,https://www4.ti.ch/dss/dsp/covid19/home/
 TG,2021-03-17,21652,14358,36010,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-03-17,24510,16124,40634,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -38,7 +39,7 @@ AG,2021-03-17,62609,31434,94043,https://www.ag.ch/de/themen_1/coronavirus_2/lage
 ZH,2021-03-16,107558,60834,168392,https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/gesundheit/corona/hauptseite/gd_zh_corona_lagebulletin.pdf
 ZG,2021-03-16,11204,7605,18809,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-03-16,,,47545,https://www.vs.ch/documents/6756452/7008787/2021 03 16 - Sit Epid - État Stand
-VD,2021-03-16,73911,34500,108411,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-03-16,73911,34501,108412,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-03-16,21164,14191,35355,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-03-16,24029,16009,40038,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 SH,2021-03-16,7827,5722,13549,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
