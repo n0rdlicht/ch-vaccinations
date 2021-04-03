@@ -10,6 +10,7 @@ VD,2021-04-01,94805,59311,154116,https://monitoring.unisante.ch/d/krLTmEfGk/donn
 UR,2021-04-01,4978,3130,8108,https://www.ur.ch/_rte/information/77422
 TG,2021-04-01,30065,18576,48641,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SH,2021-04-01,9956,7221,17177,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
+SG,2021-04-01,60938,35819,96757,https://www.sg.ch/ueber-den-kanton-st-gallen/statistik/covid-19.html
 BS,2021-04-01,20325,14414,34739,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BL,2021-04-01,,,60502,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-04-01,,64985,178421,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
@@ -68,6 +69,7 @@ VS,2021-03-28,36165,22860,59025,https://www.vs.ch/documents/6756452/7008787/2021
 VD,2021-03-28,89244,50510,139754,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TI,2021-03-28,,,62993,https://www4.ti.ch/dss/dsp/covid19/home/
 TG,2021-03-28,27451,16990,44441,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+SZ,2021-03-28,,,25696,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 GR,2021-03-28,22493,13174,35667,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 GL,2021-03-28,4785,2452,7237,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817
 BS,2021-03-28,18411,12431,30842,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
@@ -169,6 +171,7 @@ VS,2021-03-21,30685,18775,49460,https://www.vs.ch/documents/6756452/7008787/2021
 VD,2021-03-21,80322,40087,120409,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TI,2021-03-21,32787,22574,55361,https://www4.ti.ch/dss/dsp/covid19/home/
 TG,2021-03-21,23691,14835,38526,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
+SZ,2021-03-21,,,22500,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
 GL,2021-03-21,3906,2452,6358,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817
 BS,2021-03-21,16276,11398,27674,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BL,2021-03-21,,,44973,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
