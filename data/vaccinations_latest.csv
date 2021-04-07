@@ -1,4 +1,6 @@
 canton,date,first_doses,second_doses,total_vaccinations,source
+VD,2021-04-07,98009,62670,160679,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+BE,2021-04-07,,69636,191476,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 ZH,2021-04-06,,,227655,https://www.zh.ch/de/gesundheit/coronavirus.html
 VS,2021-04-06,,,67795,https://www.vs.ch/documents/6756452/7008787/2021 04 06 - Sit Epid - État Stand
 VD,2021-04-06,98005,62648,160653,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
