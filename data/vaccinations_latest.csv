@@ -1,4 +1,5 @@
 canton,date,first_doses,second_doses,total_vaccinations,source
+VD,2021-05-04,172310,92814,265124,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 ZH,2021-05-03,,,418930,https://www.zh.ch/de/gesundheit/coronavirus.html
 VS,2021-05-03,,,110405,https://www.vs.ch/documents/6756452/7008787/2021 05 03- Sit Epid - État Stand
 VD,2021-05-03,172309,92814,265123,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
@@ -6,6 +7,7 @@ SH,2021-05-03,21604,10101,31705,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/B
 OW,2021-05-03,6566,4695,11261,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 NW,2021-05-03,8689,5324,14013,https://www.nw.ch/gesundheitsamtdienste/6044
 FR,2021-05-03,,,90811,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
+BS,2021-05-03,39836,20003,59839,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
 BE,2021-05-03,233966,115950,349916,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-05-03,,,18206,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 VD,2021-05-02,166910,91728,258638,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
