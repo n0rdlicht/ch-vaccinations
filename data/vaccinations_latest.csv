@@ -1,11 +1,12 @@
 canton,date,first_doses,second_doses,total_vaccinations,source
-VD,2021-05-21,256543,122819,379362,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-21,257102,123114,380216,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 UR,2021-05-21,,,19155,https://www.ur.ch/_rte/information/79003
 SH,2021-05-21,26887,17353,44240,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 BE,2021-05-21,356565,180361,536926,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
+AI,2021-05-21,4505,2907,7412,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus/impfung
 ZH,2021-05-20,,,623035,https://www.zh.ch/de/gesundheit/coronavirus.html
 VS,2021-05-20,,,157255,https://www.vs.ch/documents/6756452/7008787/2021 05 20 - Sit Epid - État Stand
-VD,2021-05-20,254911,121794,376705,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-20,254917,121798,376715,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-05-20,81565,43683,125248,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-05-20,82184,48878,131062,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 SH,2021-05-20,26544,16879,43423,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
@@ -17,7 +18,7 @@ BE,2021-05-20,349136,174577,523713,https://www.besondere-lage.sites.be.ch/de/sta
 AR,2021-05-20,,,25877,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 ZH,2021-05-19,,,590477,https://www.zh.ch/de/gesundheit/coronavirus.html
 VS,2021-05-19,,,152330,https://www.vs.ch/documents/6756452/7008787/2021 05 19 - Sit Epid - État Stand
-VD,2021-05-19,248940,118934,367874,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-19,248944,118937,367881,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-05-19,80337,42642,122979,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-05-19,80147,47986,128133,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 SH,2021-05-19,26265,16462,42727,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
@@ -26,14 +27,14 @@ LU,2021-05-19,123516,60620,184136,https://www.lustat.ch/daten?id=28177
 GR,2021-05-19,58332,36734,95066,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 GE,2021-05-19,171575,94550,266125,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 BS,2021-05-19,65457,30040,95497,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-19,95501,60659,156160,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-19,95545,60813,156358,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-19,341741,168519,510260,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-05-19,,,24873,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-05-19,198973,119956,318929,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZH,2021-05-18,,,572162,https://www.zh.ch/de/gesundheit/coronavirus.html
 ZG,2021-05-18,36453,22209,58662,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-05-18,,,148620,https://www.vs.ch/documents/6756452/7008787/2021 05 18 - Sit Epid - État Stand
-VD,2021-05-18,243256,115888,359144,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-18,243260,115889,359149,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-05-18,79098,41664,120762,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-05-18,78150,47042,125192,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 SH,2021-05-18,25859,15929,41788,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
@@ -41,14 +42,14 @@ NW,2021-05-18,12041,6973,19014,https://www.nw.ch/gesundheitsamtdienste/6044
 LU,2021-05-18,120650,59278,179928,https://www.lustat.ch/daten?id=28177
 GE,2021-05-18,167754,91477,259231,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 BS,2021-05-18,64664,28994,93658,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-18,92361,58403,150764,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-18,92368,58403,150771,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-18,334075,162666,496741,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-05-18,,,24316,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-05-18,196007,115687,311694,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZH,2021-05-17,,,557388,https://www.zh.ch/de/gesundheit/coronavirus.html
 ZG,2021-05-17,35872,21771,57643,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-05-17,,,142205,https://www.vs.ch/documents/6756452/7008787/2021 05 17- Sit Epid - État Stand
-VD,2021-05-17,237243,112728,349971,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-17,237247,112729,349976,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-05-17,77837,40869,118706,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-05-17,76481,45747,122228,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 SH,2021-05-17,25591,15570,41161,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
@@ -59,12 +60,12 @@ JU,2021-05-17,21075,10677,31752,https://www.jura.ch/Htdocs/Files/v/37535.pdf/Dep
 GE,2021-05-17,166002,87854,253856,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 FR,2021-05-17,,,121181,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 BS,2021-05-17,64520,27575,92095,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-17,90076,56363,146439,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-17,90083,56363,146446,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-17,327782,156114,483896,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-05-17,,,23806,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-05-17,193206,111568,304774,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZG,2021-05-16,35353,21337,56690,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
-VD,2021-05-16,232151,109541,341692,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-16,232153,109542,341695,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TI,2021-05-16,,,175068,https://www4.ti.ch/dss/dsp/covid19/home/
 TG,2021-05-16,76371,40206,116577,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SZ,2021-05-16,,,62281,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -72,21 +73,21 @@ SG,2021-05-16,136745,79611,216356,https://www.sg.ch/ueber-den-kanton-st-gallen/s
 LU,2021-05-16,114410,57644,172054,https://www.lustat.ch/daten?id=28177
 GR,2021-05-16,55787,34262,90049,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 BS,2021-05-16,63861,26041,89902,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-16,89318,53355,142673,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-16,89325,53355,142680,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-16,325786,156099,481885,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AG,2021-05-16,191050,107596,298646,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZG,2021-05-15,34710,21109,55819,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
-VD,2021-05-15,230537,109308,339845,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-15,230539,109309,339848,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-05-15,75214,39875,115089,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 LU,2021-05-15,112382,57640,170022,https://www.lustat.ch/daten?id=28177
 GE,2021-05-15,164334,84477,248811,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 BS,2021-05-15,62455,26039,88494,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-15,89318,53355,142673,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-15,89325,53355,142680,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-15,322100,153845,475945,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AG,2021-05-15,189356,107078,296434,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZH,2021-05-14,,,537989,https://www.zh.ch/de/gesundheit/coronavirus.html
 ZG,2021-05-14,34041,20856,54897,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
-VD,2021-05-14,227609,109033,336642,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-14,227611,109034,336645,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 UR,2021-05-14,,,16822,https://www.ur.ch/_rte/information/78751
 TG,2021-05-14,73766,39128,112894,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-05-14,75013,44422,119435,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -96,23 +97,23 @@ NW,2021-05-14,11577,6890,18467,https://www.nw.ch/gesundheitsamtdienste/6044
 LU,2021-05-14,110584,56187,166771,https://www.lustat.ch/daten?id=28177
 FL,2021-05-14,10516,5786,16302,https://www.llv.li/files/as/impfungen.xlsx
 BS,2021-05-14,60505,26036,86541,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-14,89318,53355,142673,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-14,89325,53355,142680,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-14,314867,148363,463230,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-05-14,,,23372,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-05-14,187533,106727,294260,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZG,2021-05-13,33478,20465,53943,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
-VD,2021-05-13,222587,107140,329727,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-13,222589,107141,329730,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-05-13,72400,38720,111120,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 LU,2021-05-13,108554,54601,163155,https://www.lustat.ch/daten?id=28177
 GE,2021-05-13,157738,85548,243286,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 BS,2021-05-13,58453,25920,84373,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-13,88714,51052,139766,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-13,88721,51052,139773,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-13,309514,147209,456723,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AG,2021-05-13,184716,103264,287980,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZH,2021-05-12,,,509421,https://www.zh.ch/de/gesundheit/coronavirus.html
 ZG,2021-05-12,32388,19595,51983,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-05-12,,,134285,https://www.vs.ch/documents/6756452/7008787/2021 05 12 - Sit Epid - État Stand
-VD,2021-05-12,219737,106075,325812,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-12,219739,106076,325815,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TI,2021-05-12,,,163282,https://www4.ti.ch/dss/dsp/covid19/home/
 TG,2021-05-12,71061,38305,109366,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-05-12,73105,41801,114906,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -120,14 +121,14 @@ SH,2021-05-12,25115,12870,37985,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/B
 OW,2021-05-12,9406,6260,15666,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962
 LU,2021-05-12,105930,54593,160523,https://www.lustat.ch/daten?id=28177
 BS,2021-05-12,56519,25918,82437,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-12,88096,48683,136779,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-12,88103,48683,136786,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-12,300869,141460,442329,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-05-12,,,22282,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-05-12,183173,102325,285498,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZH,2021-05-11,,,492329,https://www.zh.ch/de/gesundheit/coronavirus.html
 ZG,2021-05-11,32388,19595,51983,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-05-11,,,131525,https://www.vs.ch/documents/6756452/7008787/2021 05 11 - Sit Epid - État Stand
-VD,2021-05-11,213736,104140,317876,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-11,213738,104141,317879,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-05-11,69584,37314,106898,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-05-11,71636,40204,111840,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 SH,2021-05-11,24984,12165,37149,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
@@ -135,14 +136,14 @@ NW,2021-05-11,10853,6423,17276,https://www.nw.ch/gesundheitsamtdienste/6044
 LU,2021-05-11,103182,52903,156085,https://www.lustat.ch/daten?id=28177
 GE,2021-05-11,151413,79606,231019,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 BS,2021-05-11,54777,25620,80397,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-11,87454,46237,133691,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-11,87458,46237,133695,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-11,292470,136061,428531,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-05-11,,,21472,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-05-11,179737,98911,278648,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZH,2021-05-10,,,478983,https://www.zh.ch/de/gesundheit/coronavirus.html
 ZG,2021-05-10,31344,18596,49940,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-05-10,,,127020,https://www.vs.ch/documents/6756452/7008787/2021 05 10 - Sit Epid - État Stand
-VD,2021-05-10,207233,102198,309431,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-10,207235,102198,309433,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-05-10,68139,36303,104442,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-05-10,70332,38757,109089,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 SH,2021-05-10,24820,11616,36436,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
@@ -153,13 +154,13 @@ GR,2021-05-10,52868,29889,82757,https://www.gr.ch/DE/institutionen/verwaltung/dj
 GE,2021-05-10,147839,77215,225054,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 FR,2021-05-10,,,105594,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 BS,2021-05-10,53411,24829,78240,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-10,85201,43788,128989,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-10,85204,43788,128992,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-10,284387,131439,415826,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-05-10,,,20799,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-05-10,176342,96059,272401,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZG,2021-05-09,31344,18596,49940,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-05-09,80320,46700,127020,https://www.vs.ch/documents/6756452/7008787/2021 05 12 - Synthese COVID-19 Woche18
-VD,2021-05-09,201568,100420,301988,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-09,201570,100420,301990,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TI,2021-05-09,,,156216,https://www4.ti.ch/dss/dsp/covid19/home/
 TG,2021-05-09,66970,35396,102366,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SZ,2021-05-09,,,54026,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -168,22 +169,22 @@ LU,2021-05-09,97677,51524,149201,https://www.lustat.ch/daten?id=28177
 JU,2021-05-09,17975,9122,27097,https://www.jura.ch/Htdocs/Files/v/37509.pdf/Departements/CHA/SIC/Carrousel/Coronavirus/Chiffres/rapport-hebdomadaire-vaccin-sem18.pdf
 GL,2021-05-09,10430,5398,15828,https://www.gl.ch/public-newsroom/details.html/31/news/22390
 BS,2021-05-09,52700,23653,76353,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-09,84135,41472,125607,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-09,84138,41472,125610,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-09,283675,131410,415085,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AG,2021-05-09,173049,93400,266449,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZG,2021-05-08,30907,18247,49154,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
-VD,2021-05-08,199883,100253,300136,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-08,199885,100253,300138,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-05-08,65892,34818,100710,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 LU,2021-05-08,96048,51520,147568,https://www.lustat.ch/daten?id=28177
 GE,2021-05-08,143094,75106,219152,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 BS,2021-05-08,51679,23653,75332,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-08,84135,41472,125607,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-08,84138,41472,125610,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-08,278210,130313,408523,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AG,2021-05-08,171738,93015,264753,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZH,2021-05-07,,,457107,https://www.zh.ch/de/gesundheit/coronavirus.html
 ZG,2021-05-07,30411,17914,48325,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-05-07,,,123255,https://www.vs.ch/documents/6756452/7008787/2021 05 07 - Sit Epid - État Stand
-VD,2021-05-07,196597,100062,296659,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-07,196599,100062,296661,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 UR,2021-05-07,,,15004,https://www.ur.ch/_rte/information/78529
 TG,2021-05-07,64707,34085,98792,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-05-07,69052,37048,106100,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -192,7 +193,7 @@ NW,2021-05-07,9653,5475,15128,https://www.nw.ch/gesundheitsamtdienste/6044
 LU,2021-05-07,93916,50769,144685,https://www.lustat.ch/daten?id=28177
 FL,2021-05-07,9919,4419,14338,https://www.llv.li/files/as/impfungen.xlsx
 BS,2021-05-07,50163,23652,73815,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-07,84135,41472,125607,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-07,84138,41472,125610,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-07,269125,126608,395733,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-05-07,,,20397,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AI,2021-05-07,3373,2409,5782,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus/impfung
@@ -200,7 +201,7 @@ AG,2021-05-07,170583,91774,262357,https://www.ag.ch/de/themen_1/coronavirus_2/la
 ZH,2021-05-06,,,439393,https://www.zh.ch/de/gesundheit/coronavirus.html
 ZG,2021-05-06,29841,17546,47387,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-05-06,,,121420,https://www.vs.ch/documents/6756452/7008787/2021 05 06 - Sit Epid - État Stand
-VD,2021-05-06,190538,98300,288838,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-06,190540,98300,288840,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-05-06,63299,33341,96640,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-05-06,66744,36808,103552,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 SH,2021-05-06,22607,10954,33561,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
@@ -210,13 +211,13 @@ LU,2021-05-06,91529,49652,141181,https://www.lustat.ch/daten?id=28177
 GR,2021-05-06,49891,26402,76293,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 GE,2021-05-06,137786,73153,210939,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 BS,2021-05-06,48869,22560,71429,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-06,82847,40559,123406,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-06,82850,40559,123409,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-06,260539,123181,383720,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-05-06,,,19882,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-05-06,167144,89235,256379,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZG,2021-05-05,29423,17171,46594,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-05-05,,,118550,https://www.vs.ch/documents/6756452/7008787/2021 05 05 - Sit Epid - État Stand
-VD,2021-05-05,184227,96439,280666,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-05,184229,96439,280668,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TI,2021-05-05,,,143118,https://www4.ti.ch/dss/dsp/covid19/home/
 TG,2021-05-05,61453,32556,94009,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-05-05,66381,36343,102724,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -225,14 +226,14 @@ LU,2021-05-05,88767,48516,137283,https://www.lustat.ch/daten?id=28177
 GR,2021-05-05,47887,25775,73662,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 GE,2021-05-05,134370,71213,205583,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 BS,2021-05-05,46865,22244,69109,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-05,81727,39504,121231,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-05,81730,39504,121234,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-05,252201,119832,372033,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-05-05,,,19031,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-05-05,163070,86597,249667,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZH,2021-05-04,,,430613,https://www.zh.ch/de/gesundheit/coronavirus.html
 ZG,2021-05-04,28445,16391,44836,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-05-04,,,114495,https://www.vs.ch/documents/6756452/7008787/2021 05 04 - Sit Epid - État Stand
-VD,2021-05-04,178395,94695,273090,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-04,178397,94695,273092,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-05-04,60386,31931,92317,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-05-04,66000,35831,101831,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 SH,2021-05-04,22151,10167,32318,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
@@ -241,14 +242,14 @@ LU,2021-05-04,86308,47452,133760,https://www.lustat.ch/daten?id=28177
 GR,2021-05-04,47523,25461,72984,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 GE,2021-05-04,131186,69533,200719,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 BS,2021-05-04,46722,22126,68848,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-04,80743,38519,119262,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-04,80746,38519,119265,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-04,242828,116911,359739,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-05-04,,,18631,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-05-04,159186,84433,243619,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZH,2021-05-03,,,418930,https://www.zh.ch/de/gesundheit/coronavirus.html
 ZG,2021-05-03,28445,16391,44836,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-05-03,,,110405,https://www.vs.ch/documents/6756452/7008787/2021 05 03- Sit Epid - État Stand
-VD,2021-05-03,172562,92858,265420,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-03,172564,92858,265422,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-05-03,59272,31280,90552,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-05-03,63936,35713,99649,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 SH,2021-05-03,21604,10101,31705,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
@@ -260,13 +261,13 @@ GR,2021-05-03,46978,25304,72282,https://www.gr.ch/DE/institutionen/verwaltung/dj
 GE,2021-05-03,129311,67982,197293,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 FR,2021-05-03,,,90811,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 BS,2021-05-03,45236,21984,67220,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-03,79920,37438,117358,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-03,79923,37438,117361,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-03,233966,115950,349916,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-05-03,,,18206,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-05-03,155202,82607,237809,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZG,2021-05-02,27387,15912,43299,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-05-02,69755,40650,110405,https://www.vs.ch/documents/6756452/7008787/2021 05 05 - Synthese COVID-19 Woche17
-VD,2021-05-02,167149,91771,258920,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-02,167151,91771,258922,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TI,2021-05-02,,,134905,https://www4.ti.ch/dss/dsp/covid19/home/
 TG,2021-05-02,58124,30826,88950,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SZ,2021-05-02,,,46640,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -275,19 +276,19 @@ LU,2021-05-02,81610,44342,125952,https://www.lustat.ch/daten?id=28177
 JU,2021-05-02,14779,8077,22856,https://www.jura.ch/Htdocs/Files/v/37457.pdf/Departements/CHA/SIC/Carrousel/Coronavirus/Chiffres/rapport-vaccin_sem17.pdf
 GR,2021-05-02,46424,25291,71715,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 BS,2021-05-02,43657,21841,65498,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-02,77701,37412,115113,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-02,77704,37412,115116,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 AG,2021-05-02,150675,81834,232509,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZG,2021-05-01,27387,15912,43299,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
-VD,2021-05-01,165642,91771,257413,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-01,165644,91771,257415,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-05-01,57249,30559,87808,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 LU,2021-05-01,80730,44342,125072,https://www.lustat.ch/daten?id=28177
 BS,2021-05-01,43657,21841,65498,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-05-01,77170,37411,114581,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-05-01,77173,37411,114584,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 AG,2021-05-01,148991,81826,230817,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZH,2021-04-30,,,402374,https://www.zh.ch/de/gesundheit/coronavirus.html
 ZG,2021-04-30,26905,15756,42661,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-04-30,,,108430,https://www.vs.ch/documents/6756452/7008787/2021 04 30 - Sit Epid - État Stand
-VD,2021-04-30,162747,91752,254499,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-04-30,162749,91752,254501,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 UR,2021-04-30,,,12607,https://www.ur.ch/_rte/information/78269
 TG,2021-04-30,56425,30027,86452,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-04-30,59232,34178,93410,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -295,7 +296,7 @@ SH,2021-04-30,19893,10092,29985,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/B
 LU,2021-04-30,78172,44335,122507,https://www.lustat.ch/daten?id=28177
 FL,2021-04-30,8829,4165,12994,https://www.llv.li/files/as/impfungen.xlsx
 BS,2021-04-30,41434,21836,63270,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-04-30,75825,37410,113235,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-04-30,75828,37410,113238,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-04-30,218626,114571,333197,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-04-30,,,17949,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AI,2021-04-30,3317,2123,5440,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus/impfung
@@ -303,7 +304,7 @@ AG,2021-04-30,148279,80725,229004,https://www.ag.ch/de/themen_1/coronavirus_2/la
 ZH,2021-04-29,,,388845,https://www.zh.ch/de/gesundheit/coronavirus.html
 ZG,2021-04-29,26520,15445,41965,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-04-29,,,107280,https://www.vs.ch/documents/6756452/7008787/2021 04 29 - Sit Epid - État Stand
-VD,2021-04-29,157121,90581,247702,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-04-29,157123,90581,247704,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-04-29,54789,29380,84169,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-04-29,57128,33966,91094,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 SH,2021-04-29,19544,9816,29360,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
@@ -311,14 +312,14 @@ NW,2021-04-29,7858,5143,13001,https://www.nw.ch/gesundheitsamtdienste/6044
 LU,2021-04-29,75476,44130,119606,https://www.lustat.ch/daten?id=28177
 GE,2021-04-29,121204,67086,188290,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 BS,2021-04-29,41334,21703,63037,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-04-29,74277,37408,111685,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-04-29,74280,37408,111688,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-04-29,212214,111007,323221,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-04-29,,,17563,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-04-29,144972,80044,225016,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZH,2021-04-28,,,374709,https://www.zh.ch/de/gesundheit/coronavirus.html
 ZG,2021-04-28,25908,15036,40944,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-04-28,,,106200,https://www.vs.ch/documents/6756452/7008787/2021 04 28 - Sit Epid - État Stand
-VD,2021-04-28,151669,89077,240746,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-04-28,151671,89077,240748,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TI,2021-04-28,,,121225,https://www4.ti.ch/dss/dsp/covid19/home/
 TG,2021-04-28,52912,28714,81626,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-04-28,55050,33810,88860,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -327,14 +328,14 @@ SG,2021-04-28,107713,56173,163886,https://www.sg.ch/ueber-den-kanton-st-gallen/s
 LU,2021-04-28,72582,43981,116563,https://www.lustat.ch/daten?id=28177
 GR,2021-04-28,44494,23315,67809,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 BS,2021-04-28,40651,21054,61705,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-04-28,73220,36354,109574,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-04-28,73223,36354,109577,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-04-28,206228,107986,314214,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-04-28,,,16974,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-04-28,142432,78180,220612,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZH,2021-04-27,,,364470,https://www.zh.ch/de/gesundheit/coronavirus.html
 ZG,2021-04-27,25583,14689,40272,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-04-27,,,102360,https://www.vs.ch/documents/6756452/7008787/2021 04 27 - Sit Epid - État Stand
-VD,2021-04-27,146205,87789,233994,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-04-27,146207,87789,233996,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-04-27,51730,28041,79771,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-04-27,53286,33429,86715,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 SH,2021-04-27,19108,9003,28111,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
@@ -344,14 +345,14 @@ LU,2021-04-27,69779,43794,113573,https://www.lustat.ch/daten?id=28177
 GR,2021-04-27,43047,22790,65837,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 GE,2021-04-27,118327,65373,183700,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 BS,2021-04-27,38723,20847,59570,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-04-27,71821,35502,107323,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-04-27,71824,35502,107326,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-04-27,199708,105074,304782,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-04-27,,,16612,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-04-27,139938,76218,216156,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZH,2021-04-26,,,359037,https://www.zh.ch/de/gesundheit/coronavirus.html
 ZG,2021-04-26,25278,14255,39533,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-04-26,,,97165,https://www.vs.ch/documents/6756452/7008787/2021 04 26 - Sit Epid - État Stand
-VD,2021-04-26,140811,86042,226853,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-04-26,140813,86042,226855,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-04-26,50407,27024,77431,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-04-26,51842,32792,84634,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
 SH,2021-04-26,18933,8595,27528,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
@@ -363,13 +364,13 @@ GR,2021-04-26,41380,22037,63417,https://www.gr.ch/DE/institutionen/verwaltung/dj
 GE,2021-04-26,112277,62099,174376,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 FR,2021-04-26,,,81857,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
 BS,2021-04-26,37733,19618,57351,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-04-26,70563,34607,105170,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-04-26,70566,34607,105173,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-04-26,193906,102233,296139,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-04-26,,,16270,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-04-26,137639,74164,211803,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZG,2021-04-25,25020,14019,39039,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-04-25,60585,36580,97165,https://www.vs.ch/documents/6756452/7008787/2021 04 28 - Synthese COVID-19 Woche16
-VD,2021-04-25,136153,84765,220918,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-04-25,136155,84765,220920,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TI,2021-04-25,,,112114,https://www4.ti.ch/dss/dsp/covid19/home/
 TG,2021-04-25,49415,26405,75820,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SZ,2021-04-25,,,40104,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948
@@ -378,19 +379,19 @@ LU,2021-04-25,67065,41933,108998,https://www.lustat.ch/daten?id=28177
 JU,2021-04-25,12890,7223,20113,https://www.jura.ch/Htdocs/Files/v/37411.pdf/Departements/CHA/SIC/Carrousel/Coronavirus/Chiffres/rapport-hebdomadaire-vaccin-sem161.pdf
 GR,2021-04-25,39949,21425,61374,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 BS,2021-04-25,36324,19170,55494,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-04-25,69075,33832,102907,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-04-25,69078,33832,102910,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 AG,2021-04-25,135234,72472,207706,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZG,2021-04-24,24732,13811,38543,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
-VD,2021-04-24,135114,84591,219705,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-04-24,135116,84591,219707,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-04-24,49095,26008,75103,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 LU,2021-04-24,66093,41933,108026,https://www.lustat.ch/daten?id=28177
 BS,2021-04-24,35351,19170,54521,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-04-24,67879,33831,101710,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-04-24,67882,33831,101713,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 AG,2021-04-24,133599,72466,206065,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
 ZH,2021-04-23,,,353473,https://www.zh.ch/de/gesundheit/coronavirus.html
 ZG,2021-04-23,24242,13676,37918,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VS,2021-04-23,,,94955,https://www.vs.ch/documents/6756452/7008787/2021 04 23 - Sit Epid - État Stand
-VD,2021-04-23,132917,84406,217323,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-04-23,132919,84406,217325,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 UR,2021-04-23,6924,4543,11467,https://www.ur.ch/_rte/information/78050
 TG,2021-04-23,48099,25620,73719,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
 SO,2021-04-23,50639,31025,81664,https://corona.so.ch/bevoelkerung/daten/impfstatistik/
@@ -400,7 +401,7 @@ LU,2021-04-23,65116,40962,106078,https://www.lustat.ch/daten?id=28177
 GE,2021-04-23,109540,60455,169995,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 FL,2021-04-23,7739,3687,11426,https://www.llv.li/files/as/impfungen.xlsx
 BS,2021-04-23,33569,19167,52736,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-04-23,66458,33831,100289,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-04-23,66461,33831,100292,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-04-23,185467,99994,285461,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-04-23,,,15810,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AI,2021-04-23,2838,1517,4355,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus/impfung
@@ -417,7 +418,7 @@ LU,2021-04-22,63776,39799,103575,https://www.lustat.ch/daten?id=28177
 GR,2021-04-22,38521,20940,59461,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 GE,2021-04-22,100482,58809,159291,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 BS,2021-04-22,32426,18136,50562,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-04-22,64629,32644,97273,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-04-22,64632,32644,97276,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-04-22,179694,97778,277472,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-04-22,,,15556,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-04-22,128327,70708,199035,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
@@ -433,7 +434,7 @@ LU,2021-04-21,62089,38602,100691,https://www.lustat.ch/daten?id=28177
 GR,2021-04-21,37459,20257,57716,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/impfen/Seiten/impfen.aspx
 GE,2021-04-21,96939,56898,153837,https://www.ge.ch/se-faire-vacciner-contre-covid-19/vaccination-chiffres
 BS,2021-04-21,31440,17116,48556,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
-BL,2021-04-21,62289,31360,93649,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
+BL,2021-04-21,62291,31360,93651,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-04-21,173434,95632,269066,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AR,2021-04-21,,,15063,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/
 AG,2021-04-21,123943,69396,193339,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp
