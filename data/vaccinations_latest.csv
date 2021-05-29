@@ -1,5 +1,5 @@
 canton,date,first_doses,second_doses,total_vaccinations,source
-VD,2021-05-29,294046,146582,440628,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-05-29,294300,146733,441033,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 BE,2021-05-29,394919,221627,616546,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 ZH,2021-05-28,,,763575,https://www.zh.ch/de/gesundheit/coronavirus.html
 VS,2021-05-28,,,179555,https://www.vs.ch/documents/6756452/7008787/2021 05 28 - Sit Epid - État Stand
@@ -8,6 +8,7 @@ UR,2021-05-28,13168,7684,20852,https://www.ur.ch/_rte/information/79286
 SH,2021-05-28,29989,19485,49474,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 NW,2021-05-28,14903,8378,23281,https://www.nw.ch/gesundheitsamtdienste/6044
 BS,2021-05-28,76005,40390,116395,https://data.bs.ch/explore/dataset/100111/download/?format=csv&timezone=Europe/Berlin&lang=en&use_labels_for_header=true&csv_separator=%3B
+BL,2021-05-28,109945,71648,181593,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-impfungen
 BE,2021-05-28,388123,212714,600837,https://www.besondere-lage.sites.be.ch/de/start/impfen.html
 AI,2021-05-28,5017,3364,8381,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus/impfung
 ZH,2021-05-27,,,745353,https://www.zh.ch/de/gesundheit/coronavirus.html
