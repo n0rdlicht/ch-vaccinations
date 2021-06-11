@@ -1,4 +1,5 @@
 canton,date,first_doses,second_doses,total_vaccinations,source
+BE,2021-06-12,465237,310954,776191,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 VS,2021-06-11,,,220840,https://www.vs.ch/documents/6756452/7008787/2021 06 11 - Sit Epid - État Stand
 VD,2021-06-11,360527,202896,563423,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 SH,2021-06-11,36171,24629,60800,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
