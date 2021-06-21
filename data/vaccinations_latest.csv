@@ -1,10 +1,10 @@
 canton,date,first_doses,second_doses,total_vaccinations,source
 ZH,2021-06-21,763812,451331,1215143,https://www.zh.ch/de/gesundheit/coronavirus.html
 VS,2021-06-21,,,249850,https://www.vs.ch/documents/6756452/7008787/2021 06 21 - Sit Epid - État Stand
-VD,2021-06-21,396031,237075,633106,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
+VD,2021-06-21,396100,237180,633280,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 SH,2021-06-21,41655,27184,68839,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
 FR,2021-06-21,,,218150,https://www.fr.ch/de/gesundheit/covid-19/coronavirus-statistik-ueber-die-entwicklung-im-kanton
-BE,2021-06-21,518584,357972,876556,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
+BE,2021-06-21,518761,358073,876834,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 ZG,2021-06-20,61208,38598,99806,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/daten/themen/result-themen-14-03-12.csv
 VD,2021-06-20,392456,233085,625541,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 TG,2021-06-20,125162,83093,208255,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552
