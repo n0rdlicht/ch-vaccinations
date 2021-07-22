@@ -1,4 +1,5 @@
 canton,date,first_doses,second_doses,total_vaccinations,source
+BE,2021-07-23,576750,507254,1084004,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 VS,2021-07-22,,,302610,https://www.vs.ch/documents/6756452/7008787/2021 07 22 - Sit Epid - État Stand
 VD,2021-07-22,464790,366917,831707,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 NW,2021-07-22,22106,18093,40199,https://www.nw.ch/gesundheitsamtdienste/6044
