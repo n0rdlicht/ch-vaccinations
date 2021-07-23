@@ -1,4 +1,5 @@
 canton,date,first_doses,second_doses,total_vaccinations,source
+BE,2021-07-24,578873,510601,1089474,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
 VD,2021-07-23,466638,369654,836292,https://monitoring.unisante.ch/d/krLTmEfGk/donnees-vaccination-covid-19-vaud
 NW,2021-07-23,22237,18379,40616,https://www.nw.ch/gesundheitsamtdienste/6044
 BE,2021-07-23,578873,510601,1089474,https://covid-kennzahlen.apps.be.ch/#/de/cockpit
