@@ -2,8 +2,6 @@ name: Update Data Package
 
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
-  schedule:
-   - cron: '20 * * * *' # run every hour after source get's updated
 
   workflow_dispatch:
 
